@@ -1,0 +1,19 @@
+/* Mobile width < 767px */
+@media only screen and (max-width: 767px) {
+    
+  }
+  /* Table width >= 768px  width < 1024px*/
+  @media only screen and (min-width: 768px) and (max-width: 1023px){
+    .Footer__movie {
+        display: inline-block;
+    }
+    .Footer__logo {
+        width: 150px;
+        height: 40px;
+    }
+  }
+  
+  /* PC width >= 1024px */
+  @media only screen and (min-width: 1024px){
+      
+  }
